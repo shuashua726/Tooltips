@@ -1,4 +1,4 @@
-## bytesÓëHexStr»¥×ª
+ï»¿## bytesä¸HexSträº’è½¬
 
 ``` python
 def ByteToHex( bins ):
